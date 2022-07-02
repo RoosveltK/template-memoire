@@ -1,0 +1,22 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Contexte}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Probl\IeC {\`e}me}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Plan}{5}{0}{1}
+\beamer@sectionintoc {2}{\IeC {\'E}tude des possibilit\IeC {\'e}s des architectures multi/many-c\oe urs}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Pr\IeC {\'e}sentation des architectures}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Le TSP}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Approche de r\IeC {\'e}solution du TSP}{9}{0}{2}
+\beamer@subsectionintoc {2}{4}{Adaptation du TSP \IeC {\`a} une Plate-forme Many-coeurs}{10}{0}{2}
+\beamer@subsectionintoc {2}{5}{Quelques r\IeC {\'e}sultats de l'\IeC {\'e}tude}{11}{0}{2}
+\beamer@sectionintoc {3}{Fouilles des r\IeC {\'e}seaux sociaux}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s}{12}{0}{3}
+\beamer@sectionintoc {4}{DSL pour la fouille des r\IeC {\'e}seaux Sociaux}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s sur les DSLs}{13}{0}{4}
+\beamer@subsectionintoc {4}{2}{Pr\IeC {\'e}sentation du DSL}{14}{0}{4}
+\beamer@subsectionintoc {4}{3}{Parall\IeC {\'e}lisme dans le DSL}{15}{0}{4}
+\beamer@sectionintoc {5}{\IeC {\'E}tude de cas: impl\IeC {\'e}mentation du score de Katz}{16}{0}{5}
+\beamer@subsectionintoc {5}{1}{Le score de Katz}{16}{0}{5}
+\beamer@subsectionintoc {5}{2}{Impl\IeC {\'e}mentation du score de katz}{18}{0}{5}
+\beamer@subsectionintoc {5}{3}{R\IeC {\'e}sultats sur les machines sp\IeC {\'e}cialis\IeC {\'e}es au HPC}{19}{0}{5}
+\beamer@sectionintoc {6}{Conclusion et perspectives}{21}{0}{6}

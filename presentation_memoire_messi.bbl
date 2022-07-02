@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{articlemppa}
+Marcio Castro, Emilio Francesquin, Thomas~Messi Nguélé, and Jean-François
+  Méhaut.
+\newblock Analysis of computing and energy performance of multicore, numa, and
+  manycore platforms for an irregular application.
+\newblock In {\em Proceedings of the 3rd Workshop on Irregular Applications:
+  Architectures and Algorithms}, page~5. ACM, 2013.
+
+\bibitem{articlemppacri}
+Marcio Castro, Emilio Francesquin, Thomas~Messi Nguélé, and Jean-François
+  Méhaut.
+\newblock Multicœurs et manycœurs: Une analyse de la performance et
+  l'Éfficacité Énergétique d'une application irrégulière.
+\newblock {\em {P}roceedings of the CRI’2013, Conférence de Recherche en
+  Informatique}, decembre 2013.
+\newblock Accepted.
+
+\bibitem{dsloverview}
+Arie~Van Deursen, Paul Klint, and Joost Visser.
+\newblock Domain-specific languages: An annotated bibliography.
+\newblock {\em ACM SIGPLAN NOTICES}, 35:26--36, 2000.
+
+\bibitem{quant-ph}
+http://arxiv.org.
+\newblock Quant-ph.
+
+\bibitem{vanessaMasterThesis}
+Vanessa Kamga, Maurice Tchuente, and Emmanuel Viennet.
+\newblock Prévision des liens dans les graphes bipartites avec attributs.
+\newblock Mémoire de master 2 recherche, Université de Yaoundé 1,
+  Département d'Informatique, Septembre 2013.
+
+\bibitem{articlekatz}
+Leo Katz.
+\newblock A new status index derived from sociometric analysis.
+\newblock {\em Psychometrica-vol.18, No.1}, 18(1), March 1953.
+
+\bibitem{articledavidjon}
+David Liben-Nowell and Jon Kleinberg.
+\newblock The link prediction problem for social networks.
+\newblock January 8 2004.
+
+\end{thebibliography}

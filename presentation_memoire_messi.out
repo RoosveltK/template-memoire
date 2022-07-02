@@ -1,0 +1,21 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [3][]{Outline0.1.1.2}{Contexte}{Outline0.1}% 2
+\BOOKMARK [3][]{Outline0.1.2.4}{Probl\350me}{Outline0.1}% 3
+\BOOKMARK [3][]{Outline0.1.3.5}{Plan}{Outline0.1}% 4
+\BOOKMARK [2][]{Outline0.2}{\311tude des possibilit\351s des architectures multi/many-c\234urs}{}% 5
+\BOOKMARK [3][]{Outline0.2.1.6}{Pr\351sentation des architectures}{Outline0.2}% 6
+\BOOKMARK [3][]{Outline0.2.2.8}{Le TSP}{Outline0.2}% 7
+\BOOKMARK [3][]{Outline0.2.3.9}{Approche de r\351solution du TSP}{Outline0.2}% 8
+\BOOKMARK [3][]{Outline0.2.4.10}{Adaptation du TSP \340 une Plate-forme Many-coeurs}{Outline0.2}% 9
+\BOOKMARK [3][]{Outline0.2.5.11}{Quelques r\351sultats de l'\351tude}{Outline0.2}% 10
+\BOOKMARK [2][]{Outline0.3}{Fouilles des r\351seaux sociaux}{}% 11
+\BOOKMARK [3][]{Outline0.3.1.12}{G\351n\351ralit\351s}{Outline0.3}% 12
+\BOOKMARK [2][]{Outline0.4}{DSL pour la fouille des r\351seaux Sociaux}{}% 13
+\BOOKMARK [3][]{Outline0.4.1.13}{G\351n\351ralit\351s sur les DSLs}{Outline0.4}% 14
+\BOOKMARK [3][]{Outline0.4.2.14}{Pr\351sentation du DSL}{Outline0.4}% 15
+\BOOKMARK [3][]{Outline0.4.3.15}{Parall\351lisme dans le DSL}{Outline0.4}% 16
+\BOOKMARK [2][]{Outline0.5}{\311tude de cas: impl\351mentation du score de Katz}{}% 17
+\BOOKMARK [3][]{Outline0.5.1.16}{Le score de Katz}{Outline0.5}% 18
+\BOOKMARK [3][]{Outline0.5.2.18}{Impl\351mentation du score de katz}{Outline0.5}% 19
+\BOOKMARK [3][]{Outline0.5.3.19}{R\351sultats sur les machines sp\351cialis\351es au HPC}{Outline0.5}% 20
+\BOOKMARK [2][]{Outline0.6}{Conclusion et perspectives}{}% 21
